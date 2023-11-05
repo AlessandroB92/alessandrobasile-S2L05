@@ -70,6 +70,7 @@ figcaption a {
    text-align: justify;
 }
 .cards img{
+    object-fit: cover;
     width: 20rem;
     height: 22rem;
     margin: 15px;
@@ -83,6 +84,7 @@ figcaption{
 }
 
 figure img{
+    object-fit: cover;
     width: 100%;
 }
 footer{
